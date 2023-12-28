@@ -1,0 +1,9 @@
+1- Criar Power-Up's 
+
+* 1- Incrementar speed na bullet
+* 2- Decrementar velocidade nas rocks e colocar efeito de neve
+* 3- Aumentar a quantidade de bullets
+* 4- Instanciar mais uma nave
+* 5- Power Up de tiro carregado
+
+2- Implementar colisão da nave com os power up's
